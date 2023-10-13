@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kumpei Shiraishi（白石 薫平） on Kumpei Shiraishi</title>
+    <title>*Kumpei Shiraishi* on Kumpei Shiraishi</title>
     <link>https://kumpeishiraishi.github.io/</link>
-    <description>Recent content in Kumpei Shiraishi（白石 薫平） on Kumpei Shiraishi</description>
+    <description>Recent content in *Kumpei Shiraishi* on Kumpei Shiraishi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://kumpeishiraishi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://kumpeishiraishi.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kumpeishiraishi.github.io/cv/</guid>
+      <description> Apr 2023 –, Postdoc (JSPS Overseas Research Fellow)
+Laboratoire Charles Coulomb, University of Montpellier, France
+Supervisor: Prof. Ludovic Berthier
+2023年4月 – 現在 フランス モンペリエ大学 シャルル・クーロン研究所（日本学術振興会 海外特別研究員） Apr 2020 – Mar 2023, Ph.D. student
+Graduate School of Arts and Sciences, University of Tokyo, Japan
+Supervisor: Prof. Atsushi Ikeda
+2020年4月 – 2023年3月 東京大学 大学院総合文化研究科 広域科学専攻 相関基礎科学系 博士課程 </description>
+    </item>
+    
     <item>
       <title>List of presentations</title>
       <link>https://kumpeishiraishi.github.io/presentations/</link>
